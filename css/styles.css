@@ -1,0 +1,181 @@
+@media (max-width: 1100px) {
+
+    .dog-img {
+        position: relative;
+        transform: rotate(0);
+    }
+
+    #title {
+        text-align: center;
+    }
+}
+
+
+body {
+    font-family: "Montserrat";
+}
+
+#circle-mark {
+    width: 50px;
+}
+
+.navbar {
+    font-size: 1.3rem;
+}
+
+.title-btn {
+    margin: 3% 3% 3% 0;
+}
+
+#features {
+    text-align: center;
+    padding: 4% 15%;
+    background-color: #fff;
+    position: relative;
+}
+
+.features-tag {
+    padding: 4.5% 0;
+}
+
+#features-p {
+    font-size: 1.2rem;
+    color: #8f8f8f;
+    margin: auto 50px;
+    
+}
+
+#features-h3 {
+    font-size: 1.5rem;
+    font-family: "Montserrat";
+    font-weight: 50;
+    margin: 20px 0 10px 0;
+}
+
+#features-i {
+    color: #ef8172;
+}
+
+#features-i:hover {
+    color: #ff4C68;
+}
+
+#title {
+    background-color: #ff4C68;
+    padding-bottom: 7%;
+}
+
+#tindog {
+    font-family: "Ubuntu";
+    font-size: 3rem;
+}
+
+#h1-text {
+    margin-top: 50px;
+    color: white;
+    font-weight: 900;
+    font-family: "Montserrat", sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+#title-div {
+    padding: 3% 15%;
+}
+
+.dog-img {
+    margin: 2% 5%;
+    width: 22%;
+    transform: rotate(25deg);
+    position: absolute;
+}
+
+/* testimonial start */
+
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;  
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.testimonial-text {
+    font-size: 3rem;
+}
+
+.testimonial-image {
+    width: 15%;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+/* testimonial end */
+
+/* press start */
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+}
+
+.press-logo {
+    width: 18%;
+    padding: 0 3% 7%;
+}
+
+/* press end */
+
+/* pricing start */
+
+#pricing {
+    text-align: center;
+    margin: 100px;
+}
+
+.pricing-col {
+    padding: 3% 2%;
+}
+    
+
+/* pricing end */
+
+
+/* footer start */
+
+#cta {
+    background-color: #ff4C68;
+    color: #fff;
+    text-align: center;
+}
+
+.cta-h3 {
+    font-family: "Montserrat";
+    font-weight: 900 !important;
+    line-height: 1.5;
+    font-size: 3rem;
+    padding: 5% 20%;
+}
+
+.action-btn {
+    margin: 0 1% 8%;
+}
+
+#footer {
+    text-align: center;
+    background-color: #fff;
+    margin: 8% 0;
+}
+
+.contact {
+    padding: 0 0.5%;
+}
+
+/* footer end */
